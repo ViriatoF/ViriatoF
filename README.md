@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viriato</h1>
 <h3 align="center">A passionate frontend developer from Nantes, France</h3>
 
-- 🔭 I’m currently working on **Paupiette, a recipes web app running with React Js**
+- 🔭 I’m currently working on **Pot'Piette, a recipes web app running with React Js**
 
 - 🌱 I’m currently learning **React, Express JS, Node Js**
 
