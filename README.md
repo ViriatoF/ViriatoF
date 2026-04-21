@@ -1,36 +1,50 @@
 <h1 align="center">Hi 👋, I'm Viriato</h1>
-<br />
-<h3 align="center">A passionate frontend developer from Nantes, France</h3>
-<br />
-<br />
+<h3 align="center">A passionate Lead Front-end Developer in the making from Nantes, France 🇫🇷</h3>
 
-- 🔭 I’m currently working on **Pot'Piette, a recipes web app running with React Js**
-
-- 🌱 I’m currently learning **React, Express JS, Node Js**
-
-- 👯 I’m looking to collaborate on **a multitude of React projects or using other languages**
-
-- 💬 Ask me about **React, Html, Css, SQL**
-
-- 📫 How to reach me **viriato.ferreira44@gmail.com**
- <br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/viriatof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/viriatof" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/viriatoferreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viriatoferreira/" height="30" width="40" /></a>  
-<a href="https://codesandbox.io/u/viriatof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/viriatof" height="30" width="40" /></a>
+<p align="center">
+  Transitioning into tech through a bootcamp and continuously pushing my boundaries. I am currently pursuing a Master's degree in Lead Dev Front-end while working in a digital agency, solidifying my fundamentals and exploring new web solutions every day.
 </p>
-<br />
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>                   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <br /></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br />
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viriatof&show_icons=true&locale=en&layout=compact" alt="viriatof" /></p>
-<br />
+- 🔭 **Currently working at:** A digital communication agency as a web developer apprentice, building and managing projects with WordPress (Elementor Pro), Webflow, and Shopify.
+- 🌱 **Currently learning:** Consolidating my Lead Front-end skills at ECV Nantes, focusing on advanced HTML/CSS, vanilla JavaScript, and modern frameworks.
+- 🎯 **My background:** Successfully pivoted to the tech industry by completing a web development bootcamp. I'm a strong advocate for lifelong learning!
+- 👯 **Looking to collaborate on:** Front-end projects, React apps, or creative web experiences to keep challenging my technical skills.
+- 📫 **How to reach me:** [viriato.ferreira44@gmail.com](mailto:viriato.ferreira44@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viriatof&show_icons=true&locale=en" alt="viriatof" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viriatof&" alt="viriatof" /></p>
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-D50057?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/viriatoferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codepen.io/viriatof" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://codesandbox.io/u/viriatof" target="_blank">
+    <img src="https://img.shields.io/badge/codesandbox-%23040404.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+  </a>
+</p>
